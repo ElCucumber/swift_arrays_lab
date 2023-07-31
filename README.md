@@ -24,6 +24,3 @@
 * Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
 
 ![render](http://i.imgur.com/vCIhFbZ.png)
-
-
-
