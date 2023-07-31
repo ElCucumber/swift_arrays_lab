@@ -27,4 +27,3 @@
 
 
 
-[View this lesson on Learn.co](https://learn.co/lessons/ArrayLab)
